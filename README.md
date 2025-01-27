@@ -16,8 +16,11 @@ The **DNS Resolver** is a beginner-friendly Python project that resolves domain 
 python dns_resolver.py
 3. Enter domain names separated by commas (e.g., google.com, yahoo.com).
 Example Output
+
 google.com -> 142.250.190.46
+
 example.com -> 93.184.216.34
+
 Error: Unable to resolve invalid.domain
 
 Contributing
